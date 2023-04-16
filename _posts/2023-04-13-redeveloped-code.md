@@ -6,4 +6,4 @@ tags: [repository, Python]
 comments: false
 ---
 
-The redeveloped calculator Python code can be found on [GitHub](https://github.com/cpulst/PythonCalculator)
+The redeveloped calculator Python code can be found on GitHub. Click [here](https://github.com/cpulst/PythonCalculator) to view it.

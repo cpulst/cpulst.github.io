@@ -6,4 +6,4 @@ tags: [repository, Java]
 comments: false
 ---
 
-The original code developed during SNHU CS-310 can be found on [Bitbucket](https://bitbucket.org/aurrunek/calculator/src/master/)
+The original code developed during SNHU CS-310 can be found on Bitbucket. Click [here](https://bitbucket.org/aurrunek/calculator/src/master/) to view it.

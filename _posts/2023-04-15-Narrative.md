@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Narrative for the Artifact
+title: Narrative
 subtitle: What is the artifact, why is it included, what did I learn?
 tags: [narrative]
 comments: false
